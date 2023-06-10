@@ -8,7 +8,7 @@ The data includes measurements of sex steroid hormones such as testosterone, est
 In addition to hormone levels and reproductive health outcomes, the dataset includes demographic information such as age, race/ethnicity, and education level, as well as behavioral information such as smoking status and physical activity level.
  
 * [Introduction](#section-one)
-* [Body](#section-two)
+* [Analysis](#section-two)
     - [Hormone Levels](#subsection-one)
     - [Estrogen Levels are Higher for People with Infertility](#anything-you-like)
 * [Conclusion](#section-three)
@@ -16,6 +16,13 @@ In addition to hormone levels and reproductive health outcomes, the dataset incl
 <a id="section-one"></a>
 # Introduction
 The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The NHANES Sex Steroid Hormone and Reproductive Health data is a subset of the NHANES data that focuses on the reproductive health of adults. The data includes measurements of sex steroid hormones such as testosterone, estradiol, and sex hormone binding globulin, as well as information on reproductive health outcomes such as menstrual cycles, fertility, and contraceptive use. In addition to hormone levels and reproductive health outcomes, the dataset includes demographic information such as age, race/ethnicity, and education level, as well as behavioral information such as smoking status and physical activity level.
+
+<a id="section-two"></a>
+# Analysis
+
+There were 135 people who responded yes to the question "Have you seen a doctor because you are unable to become pregnant?"
+
+The below images compare the hormone levels of those 135 people to the other 5079 women who responded to the survey. 
 
 <a id="subsection-one"></a>
 # Hormone Levels
@@ -28,6 +35,9 @@ The National Health and Nutrition Examination Survey (NHANES) is a program of st
 ![image](https://github.com/acorona1234/NHANES-Survey-Hormone_Levels_and_Infertility/assets/73566258/35b8ef6a-1f07-45f6-9ab8-27320c2d8908)
 ![image](https://github.com/acorona1234/NHANES-Survey-Hormone_Levels_and_Infertility/assets/73566258/f6211195-90c8-4af6-80c6-dc0172bad4ea)
 
+<a id="section-three"></a>
+# Conclusion
 
+Estrogen Levels are Higher for People with Infertility
 
 
